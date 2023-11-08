@@ -1,1 +1,1 @@
-# openai_api_patentbot_gpt4_turbo
+# openai_api_patentbot_gpt4
